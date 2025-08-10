@@ -37,8 +37,8 @@ Before running this project, you'll need:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/moodtunes.git
-cd moodtunes
+git clone https://github.com/dannygzrcia/MoodFinder.git
+cd MoodFinder
 ```
 
 ### 2. Install Dependencies
