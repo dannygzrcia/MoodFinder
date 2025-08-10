@@ -13,9 +13,6 @@
 - **🎧 Audio Previews**: Listen to track previews before saving
 - **📱 Responsive Design**: Beautiful, modern UI that works on all devices
 
-## 🚀 Live Demo
-
-[View Live Demo](https://your-deployed-app-url.netlify.app) *(Add your deployment URL here)*
 
 ## 🛠️ Tech Stack
 
